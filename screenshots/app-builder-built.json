@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FloatPane",
+      "hasCanvas": false,
+      "bodyTextLen": 911,
+      "bodyTextHash": "e13c9eecfe90662bc8878c848363ed2ddd64b1de73bce8e555fe842d437243b6",
+      "bodyTextPrefix": "FLOATPANE A normal floating window Interactive overlay on a phon",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FloatPane",
+      "hasCanvas": false,
+      "bodyTextLen": 911,
+      "bodyTextHash": "e13c9eecfe90662bc8878c848363ed2ddd64b1de73bce8e555fe842d437243b6",
+      "bodyTextPrefix": "FLOATPANE A normal floating window Interactive overlay on a phon",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
